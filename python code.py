@@ -1,9 +1,3 @@
-'''
-PSC Sessional Assignment
-Name-Samved Shah
-Roll No. - 18BCE206
-Div - D
-'''
 
 # Importing necessary modules
 
